@@ -1,0 +1,27 @@
+#circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
